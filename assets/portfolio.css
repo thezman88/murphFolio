@@ -24,9 +24,6 @@ html {
     height: 650px;
 
 }
-#latest{
-    color: hsl(0, 0%, 87%);
-}
 
  .bg {
     position: absolute;
@@ -48,9 +45,18 @@ html {
      height:400px
  }
 
+ #movieCard{
+     width: 100%;
+     height: 400px;
+ }
+ #movieSection{
+    background-color: #242424;
+    color: hsl(0, 0%, 87%);
+ }
+
 
 #ericName{
-    color: hsl(0, 0%, 87%);
+    color: white;
 }
 
 
@@ -78,24 +84,9 @@ a:hover{
     color: #e1f4f3;
 }
 
-.best{
-    color: hsl(0, 0%, 87%);
-}
-#bestLogo{
-    color: hsl(0, 0%, 87%);
-
-}
-#skillsText{
-    color: hsl(0, 0%, 87%);
-
-}
-
-#bestContainer{
+.jumbotron{
     background-color: #242424;
-    height: 100%;
-}
-
-#bestTitle{
     color: hsl(0, 0%, 87%);
+
 
 }
