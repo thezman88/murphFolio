@@ -128,21 +128,21 @@ a:hover{
 .filter-button
 {
     font-size: 18px;
-    border: 1px solid #42B32F;
+    border: 1px solid hsl(0, 0%, 87%);
     border-radius: 5px;
     text-align: center;
-    color: #42B32F;
+    color: hsl(0, 0%, 87%);
     margin-bottom: 30px;
 
 }
 .filter-button:hover
 {
     font-size: 18px;
-    border: 1px solid #42B32F;
+    border: 1px solid grey;
     border-radius: 5px;
     text-align: center;
-    color: #ffffff;
-    background-color: #42B32F;
+    color: hsl(0, 0%, 87%);
+    background-color: rgb(59, 58, 58);
 
 }
 .btn-default:active .filter-button:active
